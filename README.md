@@ -1,4 +1,4 @@
-## Classification de l'iris avec R Shiny et randomForest sur Heroku
+## Classification de l'iris avec R Shiny et randomForest 
 
 Ce projet utilise les bibliothèques R Shiny et "randomForest" pour créer une application web permettant de classifier les espèces d'iris en fonction de leurs caractéristiques.
 
