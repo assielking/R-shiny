@@ -16,13 +16,12 @@ Ce projet utilise les bibliothèques R Shiny et "randomForest" pour créer une a
 
 ### Déploiement
 
-L'application est déployée sur Heroku et est accessible à l'adresse suivante : [lien de l'application](lien_de_votre_application).
-
 Pour exécuter localement l'application, vous pouvez cloner ce dépôt et exécuter le fichier `app.R` à l'aide de RStudio ou de la ligne de commande R :
 
 ```R
 library(shiny)
 runApp("app.R")
+```
 
 
 ![Capture d’écran (32)](https://github.com/assielking/R-shiny/assets/145512245/dc9fedfb-82a7-48c2-b40e-9fb0948bf7c9)
